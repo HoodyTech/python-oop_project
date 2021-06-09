@@ -18,4 +18,4 @@ If you want to generate new ones, enter the following command:
 ./download_agents -d agents-data.json -c 100000
 
 # Lunch the program
-./model.py agents-100k.json
+./script.py agents-100k.json
